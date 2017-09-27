@@ -1,0 +1,1 @@
+# Dijatek's PHP Template

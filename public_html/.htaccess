@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^blog/([a-zA-Z0-9\-]+)$ index.php?blogtitle=$1
+    RewriteCond %{REQUEST_URI} ^/(blog)$
+	RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1/ [R=301,L]
+# comment out line 4 and 5 when using the file on a dev site    
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+# below is for Dijatek php Template to work 
+    RewriteRule ^([a-zA-Z0-9]+)$ index.php?page=$1
+    RewriteRule ^([a-zA-Z0-9]+)/$ index.php?page=$1
+    RewriteRule ^([a-zA-Z0-9]+)/$ index.php?includes/page=$1
+    RewriteRule ^([a-zA-Z0-9]+)/$ index.php?includes/services/page=$1
+</IfModule>
