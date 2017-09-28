@@ -1,5 +1,5 @@
 <div class="parallax-container">
-    <div class="parallax"><img src="<?= IMAGE_URL ?>taiwancopy.jpg"></div>
+    <div class="parallax"><img src="<?= IMAGE_URL ?>Taiwancopy.jpg"></div>
         <h1 id="bannertitle" class="center-align white-text">國興武術學校 <br> Guo Xing Martial Arts School</h1>
 </div>
 

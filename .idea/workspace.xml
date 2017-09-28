@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b894b1a-d8b3-444f-b076-9083fae0c70d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php-template-materialize.iml" afterPath="$PROJECT_DIR$/.idea/php-template-materialize.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/config.php" afterPath="$PROJECT_DIR$/resources/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/home.php" afterPath="$PROJECT_DIR$/public_html/includes/home.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +14,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+            <state relative-caret-position="165">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="11" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -66,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="428">
@@ -120,8 +118,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>was foun</find>
-      <find>table-of-contents</find>
       <find>#</find>
       <find>#link</find>
       <find>contact</find>
@@ -150,6 +146,8 @@
       <find>responsive-img</find>
       <find>a</find>
       <find>addclass</find>
+      <find>taiwancop</find>
+      <find>taiwancopy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,7 +164,6 @@
         <option value="$PROJECT_DIR$/public_html/assets/ajax/rjseo-mail.php" />
         <option value="$PROJECT_DIR$/public_html/assets/css/style.css" />
         <option value="$PROJECT_DIR$/public_html/includes/videos.php" />
-        <option value="$PROJECT_DIR$/public_html/includes/home.php" />
         <option value="$PROJECT_DIR$/public_html/includes/services/classes.php" />
         <option value="$PROJECT_DIR$/public_html/includes/aboutus.php" />
         <option value="$PROJECT_DIR$/public_html/includes/services/blog.php" />
@@ -176,6 +173,7 @@
         <option value="$PROJECT_DIR$/public_html/.htaccess" />
         <option value="$PROJECT_DIR$/resources/Procfile.php" />
         <option value="$PROJECT_DIR$/resources/config.php" />
+        <option value="$PROJECT_DIR$/public_html/includes/home.php" />
       </list>
     </option>
   </component>
@@ -423,12 +421,12 @@
       <workItem from="1506553052543" duration="203000" />
       <workItem from="1506603767036" duration="68000" />
       <workItem from="1506605383418" duration="1586000" />
-      <workItem from="1506621396728" duration="781000" />
+      <workItem from="1506621396728" duration="898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43256000" />
+    <option name="totallyTimeSpent" value="43373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="0" />
@@ -792,14 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/includes/services/classes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
@@ -868,6 +858,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="11" selection-end-column="44" />
           <folding />
         </state>
       </provider>
