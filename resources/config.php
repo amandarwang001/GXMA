@@ -39,8 +39,8 @@ define('LANDING_INCLUDES_PATH', INCLUDES_PATH . 'landingpages/');
 //Path for blog
 define('BLOG_PATH', $basePath . 'blog/');
 // Set common links for localhost
-//define('CSS_URL',   $baseUrl. 'assets/css/');
-//define('JS_URL',    $baseUrl . 'assets/js/');
+define('CSS_URL', 'assets/css/');
+define('JS_URL',  'assets/js/');
 
 
 
