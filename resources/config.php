@@ -26,8 +26,6 @@ if ($_SERVER['HTTP_HOST'] == 'guoxingmartialarts.com') {
      $baseUrl = $protocol . 'gxma.herokuapp.com/';
  }
 
-
-
 // Set commonly used paths
 /*Includes path contains the html for each page*/
 define('INCLUDES_PATH', $basePath . 'includes/');
