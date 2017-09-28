@@ -9,8 +9,9 @@
     <link rel="stylesheet" href="<?= CSS_URL ?>style.css">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
      <link rel="icon" href="<?= IMAGE_URL ?>favicon.ico" type="image/jpg" sizes="16x16">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.js"></script>
     <script src="<?= JS_URL ?>jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.js"></script>
+
     <script src="<?= JS_URL ?>main.js"></script>
 </head>
 <body>
