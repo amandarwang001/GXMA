@@ -10,6 +10,8 @@
 if ($_SERVER['HTTP_HOST'] == 'localhost'){
     $basePath = $_SERVER['DOCUMENT_ROOT'] . '/GXMA/public_html/';
     $baseUrl = '/GXMA/public_html/';
+    define('CSS_URL',   $baseUrl. 'assets/css/');
+    define('JS_URL',    $baseUrl . 'assets/js/');
 }
 
 //this is live base url
@@ -24,6 +26,8 @@ if ($_SERVER['HTTP_HOST'] == 'guoxingmartialarts.com') {
      $basePath = $_SERVER['DOCUMENT_ROOT'] . '/';
      $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
      $baseUrl = $protocol . 'gxma.herokuapp.com/';
+     define('CSS_URL', 'assets/css/');
+     define('JS_URL',  'assets/js/');
  }
 
 // Set commonly used paths
@@ -34,9 +38,11 @@ define('LANDING_INCLUDES_PATH', INCLUDES_PATH . 'landingpages/');
 
 //Path for blog
 define('BLOG_PATH', $basePath . 'blog/');
-// Set common links
-define('CSS_URL',   $baseUrl. 'assets/css/');
-define('JS_URL',    $baseUrl . 'assets/js/');
+// Set common links for localhost
+//define('CSS_URL',   $baseUrl. 'assets/css/');
+//define('JS_URL',    $baseUrl . 'assets/js/');
+
+
 
 /**
  * Set image links:
