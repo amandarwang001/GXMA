@@ -48,10 +48,15 @@
 
 <ul class="side-nav" id="mobile-demo">
     <li><a href="classes">CLASSES</a></li>
-    <li><a href="blog">BLOG</a></li>
+    <li><a href="Videos">VIDEOS</a></li>
     <li><a href="AboutUs">ABOUT US</a></li>
+    <li><a href="blog">BLOG</a></li>
     <li><a href="ContactUs">CONTACT US</a></li>
-    <li id="callnowmobile" class="center-align grey darken-3"><a href="tel:4072737027"><span
-                    class="grey-text text-lighten-4"><b>CALL NOW</b></span><span
-                    class="green-text"> -- 407.123.4567</span></a></li>
+<!--    <li><a href="classes">CLASSES</a></li>-->
+<!--    <li><a href="blog">BLOG</a></li>-->
+<!--    <li><a href="AboutUs">ABOUT US</a></li>-->
+<!--    <li><a href="ContactUs">CONTACT US</a></li>-->
+<!--    <li id="callnowmobile" class="center-align grey darken-3"><a href="tel:4072737027"><span-->
+<!--                    class="grey-text text-lighten-4"><b>CALL NOW</b></span><span-->
+<!--                    class="green-text"> -- 407.123.4567</span></a></li>-->
 </ul>
