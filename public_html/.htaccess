@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-#    RewriteRule ^blog/([a-zA-Z0-9\-]+)$ index.php?blogtitle=$1
+    RewriteRule ^blog/([a-zA-Z0-9\-]+)$ index.php?blogtitle=$1
 #    RewriteCond %{REQUEST_URI} ^/(blog)$
 #	RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1/ [R=301,L]
 # comment out line 4 and 5 when using the file on a dev site    
