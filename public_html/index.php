@@ -55,6 +55,7 @@ else {
         include(LANDING_INCLUDES_PATH. strtolower("$page.php"));
     }
     else {
+        include(INCLUDES_PATH. 'header.php');
         include(INCLUDES_PATH. 'home.php');
     }
 
