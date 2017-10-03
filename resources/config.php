@@ -74,7 +74,8 @@ $topLevelPages = array(
 /*This description array sets up the meta description and title tag for each page identified in the topLevelPages or subLevelPages array*/
 $description = array (
     "Home" => array(
-        "meta_desc" => "This is the home page of test site.",
+        "meta_desc" => "Bagua Zhang, Xingyi Quan, Taiji, Northern Shaolin Kung Fu, and Qi Family Tongbei from 
+        Guo Xing Martial Arts School in Brisbane (Kuraby), Australia, and Orlando, FL",
         "title" => "Home | Guo Xing Martial Arts School"
     ),
     "AboutUs" => array(
@@ -83,7 +84,8 @@ $description = array (
     ),
 
     "ContactUs" => array(
-        "meta_desc" => "This is the contact page",
+        "meta_desc" => "If you want to schedule a class, a seminar at your location, or have questions, contact us at 
+        Guo Xing Martial Arts School.",
         "title" => "Contact | Guo Xing Martial Arts School"
 
     ),
@@ -98,7 +100,7 @@ $description = array (
         "title" => "Classes | Guo Xing Martial Arts School"
     ), 
     "blog" => array(
-        "meta_desc" => "This is our blog",
+        "meta_desc" => "The Guo Xing Martial Arts School blog.",
         "title" => "Blog | Guo Xing Martial Arts School"
     ),
     "samplelanding" => array(
