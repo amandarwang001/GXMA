@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b894b1a-d8b3-444f-b076-9083fae0c70d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/contactus.php" afterPath="$PROJECT_DIR$/public_html/includes/contactus.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/services/classes.php" afterPath="$PROJECT_DIR$/public_html/includes/services/classes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/config.php" afterPath="$PROJECT_DIR$/resources/config.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="358">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contactus.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contactus.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/includes/contactus.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -174,9 +171,9 @@
         <option value="$PROJECT_DIR$/public_html/includes/header.php" />
         <option value="$PROJECT_DIR$/public_html/includes/blogheader.php" />
         <option value="$PROJECT_DIR$/public_html/includes/services/blog.php" />
-        <option value="$PROJECT_DIR$/resources/config.php" />
         <option value="$PROJECT_DIR$/public_html/includes/services/classes.php" />
         <option value="$PROJECT_DIR$/public_html/includes/contactus.php" />
+        <option value="$PROJECT_DIR$/resources/config.php" />
       </list>
     </option>
   </component>
@@ -427,12 +424,12 @@
       <workItem from="1506621396728" duration="2431000" />
       <workItem from="1506694181022" duration="14000" />
       <workItem from="1506695282907" duration="823000" />
-      <workItem from="1507041279279" duration="929000" />
+      <workItem from="1507041279279" duration="985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46672000" />
+    <option name="totallyTimeSpent" value="46728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -826,14 +823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -854,6 +843,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
