@@ -3,9 +3,28 @@
         <h1 class="margin-top-lg">Classes</h1>
         <p>Guo Xing Martial Arts School offers classes in two locations: Brisbane (Kuraby), Queensland, Australia, and
             Orlando, FL, USA. Shifu David Cheng also offers
-            video classes, available internationally.</p>
+            video classes and seminars, available internationally.</p>
 
-        <div id="australia" class="section scrollspy grey lighten-4">
+        <div id="seminars" class="section scrollspy grey lighten-4">
+            <h4>Seminars</h4>
+            <p>Shifu David Cheng has taught seminars all over the world. As new seminars are scheduled, you'll find
+                their information here. If you would like to organize a seminar at your location, please
+            <a href="ContactUs">contact him</a> using the contact form or email the school at guoxingmartialarts@gmail.com
+            for pricing and scheduling details.</p>
+            <ul class="collapsible popout" data-collapsible="accordion">
+                <li>
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>
+                        Bagua and Shaolin seminars 2017 - USA
+                    </div>
+                    <div class="collapsible-body grey darken-2 white-text">
+                        Planned location is Orlando, FL, USA. More details TBA!
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+
+        <div id="australia" class="section scrollspy">
             <h4>Brisbane (Kuraby), Queensland, Australia</h4>
             <p>Classes with Shifu David Cheng:</p>
             <ul class="collapsible popout" data-collapsible="accordion">
@@ -34,7 +53,7 @@
             </ul>
         </div>
 
-        <div id="video" class="section scrollspy">
+        <div id="video" class="section scrollspy grey lighten-4">
             <h4>Video/International</h4>
             <p>Classes with Shifu David Cheng:</p>
             <ul class="collapsible popout" data-collapsible="accordion">
@@ -52,8 +71,7 @@
             </ul>
         </div>
 
-
-        <div id="usa" class="section sectionHeight scrollspy grey lighten-4">
+        <div id="usa" class="section sectionHeight scrollspy">
             <h4>Orlando, FL, USA</h4>
             <p>Classes with Instructor Amanda Wang:</p>
             <ul class="collapsible popout" data-collapsible="accordion">
@@ -84,7 +102,7 @@
             </ul>
         </div>
 
-        <div id="faq" class="section sectionHeight scrollspy">
+        <div id="faq" class="section sectionHeight scrollspy grey lighten-4">
             <h4>FAQ</h4>
             <ul class="collapsible popout" data-collapsible="accordion">
                 <li>
@@ -201,6 +219,7 @@
         <div id="menu-center">
             <ul class="section table-of-contents">
                 <li>Classes</li>
+                <li><a id="seminars" href="#seminars">Seminars</a></li>
                 <li><a id="australia" href="#australia">Australia</a></li>
                 <li><a id="video" href="#video">Video/International</a></li>
                 <li><a id="usa" href="#usa">United States</a></li>

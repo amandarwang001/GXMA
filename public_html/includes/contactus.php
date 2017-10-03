@@ -7,10 +7,11 @@
         </div>
         <div class="col m8">
             <h1>CONTACT US</h1>
-            <p>Thanks for visiting! If you would like to schedule a class or have questions, please call Shifu David
-                Cheng at <a id="link" href="tel:4071234567">407.123.4567</a> or Instructor Amanda Wang at
-                <a id="link" href="tel:8639443986">863.944.3986</a>. Or simply fill out the form below and click
-                “SUBMIT”. One of us will reply to your message as soon as possible - usually within 24 hours.</p>
+            <p>Thanks for visiting! If you would like to schedule a class, a seminar at your location, or have questions,
+                please use this form to contact Shifu David and Instructor Amanda Wang. We will reply to your message as
+                soon as possible -- usually within a day or two.<br><br>
+                You may also call Instructor Amanda Wang at <a id="link" href="tel:8639443986">863.944.3986</a>.</p>
+
             <form class="contact-us">
                 <div class="form-group">
                     <input type="text" class="form-control" name='name' id="name" placeholder="Name" required>
