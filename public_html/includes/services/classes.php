@@ -80,10 +80,11 @@
                         Classes
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
-                        Location/Days: flexible, call for details<br>
-                        Time: 1.5h<br>
+                        Location: Trotwood Park, 701 Northern Way, Winter Springs, FL 32708
+                        Days: Saturday<br>
+                        Time: 3:30pm-5pm<br>
                         Price: $25<br>
-                        Details: Bagua Zhang is taught in a small-group format. Maximum class size is 6 students. <br>
+                        Details: Bagua Zhang and Northern Shaolin are taught in a small-group format. Maximum class size is 6 students. <br>
                         Call for more information <a href="tel:8639443986"> 863.944.3986</a>
                     </div>
                 </li>
