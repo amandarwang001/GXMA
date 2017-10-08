@@ -71,7 +71,7 @@ if (isset($_GET['blogtitle'])) {
                   //for localhost
 //                "<div class='card small grey darken-3 hoverable'> <div class='card-content grey-text text-lighten-4'> <span class='card-title' data-value='"+ i + "'>" + title + "</span> <p>" + postedDate + "<br>" + blogSnippet + "</p> </div> <div class='card-action'> <a href='http://localhost/GXMA/public_html/blog/" + slug + "'>Read more</a> </div> </div>"
             //for heroku
-            "<div class='card small grey darken-3 hoverable'> <div class='card-content grey-text text-lighten-4'> <span class='card-title' data-value='"+ i + "'>" + title + "</span> <p>" + postedDate + "<br>" + blogSnippet + "</p> </div> <div class='card-action'> <a href='https://gxma.heroku.com/blog/" + slug + "'>Read more</a> </div> </div>"
+            "<div class='card small grey darken-3 hoverable'> <div class='card-content grey-text text-lighten-4'> <span class='card-title' data-value='"+ i + "'>" + title + "</span> <p>" + postedDate + "<br>" + blogSnippet + "</p> </div> <div class='card-action red darken-4'> <a href='https://gxma.heroku.com/blog/" + slug + "'>Read more</a> </div> </div>"
 //                  "<div class='col-md-3 text-center'>" +
 //                  "<h4><a href='http://localhost/php-template-materialize/public_html/blog/" + slug + "' class='loadPosts faqlink' data-value='"+ i + "'>" + title + " <br> " + postedDate + "</a></h4>" +
 //                  "</div>"
