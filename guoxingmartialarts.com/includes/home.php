@@ -48,8 +48,8 @@
 
                     </div>
                     <div class="card-content">
-                        <span class="card-title black-text">BLOG</span>
-                        <p class="black-text">Information and thoughts about our arts.</p>
+                        <span class="card-title black-text">EVENTS</span>
+                        <p class="black-text">Information about recent and upcoming events.</p>
                     </div>
                     <div class="card-action">
                         <a href="blog" class="btn btn-default red darken-4" role="button">LEARN MORE</a>

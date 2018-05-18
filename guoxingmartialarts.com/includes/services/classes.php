@@ -9,15 +9,39 @@
             <h4>Seminars</h4>
             <p>Shifu David Cheng has taught seminars all over the world. As new seminars are scheduled, you'll find
                 their information here. If you would like to organize a seminar at your location, please
-            <a href="ContactUs">contact him</a> using the contact form or email the school at guoxingmartialarts@gmail.com
-            for pricing and scheduling details.</p>
+                <a href="ContactUs">contact him</a> using the contact form or email the school at
+                guoxingmartialarts@gmail.com
+                for pricing and scheduling details.</p>
             <ul class="collapsible popout" data-collapsible="accordion">
                 <li>
                     <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>
-                        Bagua and Shaolin seminars 2017 - USA
+                        July 2017, FL, USA - Bagua and Shaolin seminars with Shifu David Cheng
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
-                        Planned location is Orlando, FL, USA. More details TBA!
+                        Please see our <a href="events" alt="events page">Events</a> page for details and pictures of last
+                        year's seminars.
+                    </div>
+                </li>
+                <li>
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>
+                        June 2018, NC, USA - Bagua seminars with Shifu Yukai Chang, Ph.D.
+                    </div>
+                    <div class="collapsible-body grey darken-2 white-text">
+                        Visit our sister school for more details: <a
+                                href="https://www.trianglebaguakungfu.com/whatisbaguagodoit">Triangle Bagua Kung Fu</a>
+                        and their Facebook event <a href="https://www.facebook.com/events/567254720304235/"
+                                                    alt="facebook seminar event link">Gao Style Bagua Zhang Seminars</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>
+                        2018, FL, USA - Seminars with Shifu David Cheng
+                    </div>
+                    <div class="collapsible-body grey darken-2 white-text">
+                        Details are TBA. Keep an eye on our <a href="events" alt="events">Events page</a>, join our <a
+                                href="ContactUs">mailing list</a>, or like us on <a
+                                href="https://www.facebook.com/guoxingmartialarts/" target="_blank">Facebook</a> to stay up to date with
+                        new accouncements!
                     </div>
                 </li>
 
@@ -80,11 +104,14 @@
                         Classes
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
-                        Location: Trotwood Park, 701 Northern Way, Winter Springs, FL 32708
+                        Location: East West Acutherapy 5709 Camellia Drive Orlando, FL 32807<br>
+                        (Parking is behind the building.)<br>
+                        <a href="https://www.eastwestacutherapy.com/" alt="East West Acutherapy">East West
+                            Acutherapy</a><br>
                         Days: Saturday<br>
-                        Time: 3:30pm-5pm<br>
-                        Price: $25<br>
-                        Details: Bagua Zhang and Northern Shaolin are taught in a small-group format. Maximum class size is 6 students. <br>
+                        Time: 6:00pm-7:30pm<br>
+                        Price: $15/class No contracts.<br>
+                        Details: Bagua Zhang and Northern Shaolin are taught in a small-group format.<br>
                         Call for more information <a href="tel:8639443986"> 863.944.3986</a>
                     </div>
                 </li>
@@ -107,7 +134,8 @@
             <h4>FAQ</h4>
             <ul class="collapsible popout" data-collapsible="accordion">
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>What is a typical group class like?
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>What
+                        is a typical group class like?
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
                         A typical group class begins like most martial arts group classes, with a salute to your teacher
@@ -120,7 +148,8 @@
                     </div>
                 </li>
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>What should I expect from my first class?
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>What
+                        should I expect from my first class?
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
                         During your first class, you'll spend more one-on-one time with your instructor to talk about
@@ -131,10 +160,12 @@
                     </div>
                 </li>
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>How should I prepare for class?
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>How
+                        should I prepare for class?
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
-                        All students should dress comfortably in weather-appropriate clothes that allow them to exercise.
+                        All students should dress comfortably in weather-appropriate clothes that allow them to
+                        exercise.
                         Flat-soled shoes (like Keds or Vans) are recommended; brand doesn't matter. Make sure to bring a
                         water bottle!
                         <br><br>
@@ -144,40 +175,51 @@
                     </div>
                 </li>
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>Do I need experience to learn Bagua Zhang (or any of the other styles)?
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>Do
+                        I need experience to learn Bagua Zhang (or any of the other styles)?
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
                         No.
                         <br><br>
                         Experience in other martial arts (especially Chinese martial arts) will help you learn the moves
                         faster, because the motions will be more familiar to you. However, experience in other martial
-                        arts can sometimes make learning <em>the details</em> of new moves difficult because you are working against old habits.
+                        arts can sometimes make learning <em>the details</em> of new moves difficult because you are
+                        working against old habits.
                         <br><br>
                         In sum, learning new movements is challenging, regardless of experience. So if you're new to
                         Chinese martial arts, don't sweat it! Just come, train, and have fun!
                     </div>
                 </li>
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>Do video classes&nbsp;<em>really</em> &nbsp;work?
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>Do
+                        video classes&nbsp;<em>really</em> &nbsp;work?
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
                         With a little effort, yes.
                         <br><br>
                         Online classes are most effective with:
                         <ol>
-                            <li>Some previous experience in the style you want to learn. (Helpful but not required.)</li>
+                            <li>Some previous experience in the style you want to learn. (Helpful but not required.)
+                            </li>
                             <li>A willing friend to work with you at home. They don't have to be martially trained, just
-                                willing to help test your structure and have applications tried on them.</li>
-                            <li>If you want to continuously improve your art, you MUST come to see Shifu David in person at
-                        some point. This could be in person in Australia, or when he visits the United States during
+                                willing to help test your structure and have applications tried on them.
+                            </li>
+                            <li>If you want to continuously improve your art, you MUST come to see Shifu David in person
+                                at
+                                some point. This could be in person in Australia, or when he visits the United States
+                                during
                                 seminars. You can learn curriculum, forms, and theories through video, but some parts
-                            of martial training must be experienced in person. Fortunately, Shifu David is experienced
-                            in teaching via video, and you will have plenty to work from after your in-person lesson.</li>
+                                of martial training must be experienced in person. Fortunately, Shifu David is
+                                experienced
+                                in teaching via video, and you will have plenty to work from after your in-person
+                                lesson.
+                            </li>
                         </ol>
                     </div>
                 </li>
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>Will I get hit in class?
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>Will
+                        I get hit in class?
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
                         Only if you want to.
@@ -190,19 +232,23 @@
                         they change their mind after some time training.
                         <br><br>
                         And that's ok. HOWEVER, these are <em>martial</em> arts. If you want to learn the whole system,
-                        you're going to need to experience what strikes feel like, both from a giver and a receiver's end.
+                        you're going to need to experience what strikes feel like, both from a giver and a receiver's
+                        end.
                         The most important part is to discuss your expectations with your instructor.
                     </div>
                 </li>
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>What is "Neijia" anyway?
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>What
+                        is "Neijia" anyway?
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
-                        The term "Neijia" refers to the 3 "internal" martial arts of: Bagua Zhang, Xingyi Quan, and Taiji Quan.
+                        The term "Neijia" refers to the 3 "internal" martial arts of: Bagua Zhang, Xingyi Quan, and
+                        Taiji Quan.
                     </div>
                 </li>
                 <li>
-                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>I still have more questions!
+                    <div class="collapsible-header"><i class="material-icons red-text text-darken-4">arrow_drop_down_circle</i>I
+                        still have more questions!
                     </div>
                     <div class="collapsible-body grey darken-2 white-text">
                         Go to the contact page and send a message. Someone will get back to you shortly!

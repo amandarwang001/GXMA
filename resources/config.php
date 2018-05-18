@@ -7,9 +7,9 @@
 /*Here we set up the base URL and base path constants*/
 
 //this is base url for local environment
-if ($_SERVER['HTTP_HOST'] == 'localhost'){
-    $basePath = $_SERVER['DOCUMENT_ROOT'] . '/GXMA/public_html/';
-    $baseUrl = '/GXMA/public_html/';
+if ($_SERVER['HTTP_HOST'] == 'localhost:8888'){
+    $basePath = $_SERVER['DOCUMENT_ROOT'] . '/GXMA/guoxingmartialarts.com/';
+    $baseUrl = '/GXMA/guoxingmartialarts.com/';
     define('CSS_URL',   $baseUrl. 'assets/css/');
     define('JS_URL',    $baseUrl . 'assets/js/');
 }
@@ -39,8 +39,8 @@ define('LANDING_INCLUDES_PATH', INCLUDES_PATH . 'landingpages/');
 //Path for blog
 define('BLOG_PATH', $basePath . 'blog/');
 // Set common links for localhost
-define('CSS_URL', 'assets/css/');
-define('JS_URL',  'assets/js/');
+define('CSS_URL' , $baseUrl . 'assets/css/');
+define('JS_URL',  $baseUrl . 'assets/js/');
 
 
 
@@ -64,7 +64,7 @@ $topLevelPages = array(
 // Each page must match a file in the includes folder for example: coding.php....
  $subLevelPages = array(
      'Classes' => 'classes',
-     'Blog' => 'blog',
+     'events' => 'events',
  );
 
  $landingPages = array(
@@ -99,9 +99,9 @@ $description = array (
         Guo Xing Martial Arts School in Brisbane (Kuraby), Australia, and Orlando, FL",
         "title" => "Classes | Guo Xing Martial Arts School"
     ), 
-    "blog" => array(
+    "events" => array(
         "meta_desc" => "The Guo Xing Martial Arts School blog.",
-        "title" => "Blog | Guo Xing Martial Arts School"
+        "title" => "Events | Guo Xing Martial Arts School"
     ),
     "samplelanding" => array(
         "meta_desc" => "This is our landing page.",

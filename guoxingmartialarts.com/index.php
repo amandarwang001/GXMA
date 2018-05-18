@@ -15,7 +15,7 @@
  *      pages in the array, it is also used as the default should nothing else be passed in that
  *      is recognized as a page.
  */
-include('../resources/config.php');
+include('./resources/config.php');
 
 $meta_desc = $description["Home"]["meta_desc"];
 $title = $description["Home"]["title"];
@@ -27,14 +27,14 @@ if (isset($_GET['page'])) {
     $title =  $description[$page]["title"];
 } elseif (isset($_GET['blogtitle'])) {
 	$blogtitle = $_GET['blogtitle'];
-    $page = 'blog';
-    $title = 'Blog Post';
+    $page = 'events';
+    $title = 'Events';
 }
 else {
     $page = 'home';
 };
 
-if ($page == 'blog' || isset($blogtitle)) {
+if ($page == 'events' || isset($blogtitle)) {
     include(INCLUDES_PATH. 'blogheader.php');
     include(SERVICES_INCLUDES_PATH. strtolower("blog.php"));
     include(INCLUDES_PATH. 'footer.php');
