@@ -29,11 +29,11 @@
                     <p class="grey-text text-darken-2">Shifu David Cheng Hebei Xingyiquan Five Element Linking Form</p>
                 </div>
                 <div class="col m6 center-align">
-                    <!--left empty as placeholder-->
+                <iframe class="videoStyle" src="https://www.youtube.com/embed/gFsFLpEn_CI" frameborder="0" allowfullscreen></iframe>
+                    <p class="grey-text text-darken-2">Xing Yi Five Element Linking Fist performed by Shifu David Cheng and student Andy Lin at the Brisbane Buddha Festival 2018</p>
                 </div>
             </div>
         </div>
-
 
         <div id="shaolinvideos" class="section sectionHeight scrollspy grey lighten-3">
             <h4 class="margin-left">Northern Shaolin</h4>
