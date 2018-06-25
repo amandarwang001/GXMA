@@ -15,7 +15,7 @@
  *      pages in the array, it is also used as the default should nothing else be passed in that
  *      is recognized as a page.
  */
-include('./resources/config.php');
+include('../resources/config.php');
 
 $meta_desc = $description["Home"]["meta_desc"];
 $title = $description["Home"]["title"];
