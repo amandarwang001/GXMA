@@ -11,7 +11,8 @@
                 <div class="col m9 grey lighten-4">
                     <p class="flow-text">
                         Shifu David Cheng is a 9th generation lineage holder of Gao style Cheng school Bagua Zhang, 10th
-                        generation lineage holder of Hebei Xinyi Quan, and 7th generation lineage holder of Northern
+                        generation lineage holder of Hebei Xinygi Quan, 7th generation lineage holder of Yang style Taiji Quan,
+                        and 7th generation lineage holder of Northern
                         Shaolin. He is the First Disciple of Shifu Chang Yukai, Ph.D.
                     </p>
                     <div class="row">
@@ -153,7 +154,7 @@
                             martial arts community in Australia, David Cheng has earned the nickname: “the martial arts
                             corrector.” Some of his visiting students from other styles include: a former Australian
                             Olympic Super Heavyweight boxer [boxing], an Australian Immigration and Border Protection
-                            Security guard [from Henan Xinyi Quan], and an Australian Navy Special Forces member [from
+                            Security guard [from Henan Xingyi Quan], and an Australian Navy Special Forces member [from
                             Mian Quan], etc.
                             <br><br>
                             Apart from teaching martial arts seminars, David Cheng has also been interviewed by Channel

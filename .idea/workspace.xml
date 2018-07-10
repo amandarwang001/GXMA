@@ -4,7 +4,7 @@
     <list default="true" id="0b894b1a-d8b3-444f-b076-9083fae0c70d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guoxingmartialarts.com/includes/aboutus.php" afterPath="$PROJECT_DIR$/guoxingmartialarts.com/includes/aboutus.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guoxingmartialarts.com/index.php" afterPath="$PROJECT_DIR$/guoxingmartialarts.com/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guoxingmartialarts.com/includes/services/classes.php" afterPath="$PROJECT_DIR$/guoxingmartialarts.com/includes/services/classes.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +19,18 @@
       <file leaf-file-name="blog.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/services/blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+            <state relative-caret-position="525">
+              <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/services/classes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4155">
+              <caret line="277" column="55" lean-forward="false" selection-start-line="277" selection-start-column="55" selection-end-line="277" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -29,8 +39,8 @@
       <file leaf-file-name="aboutus.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/aboutus.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="66" column="84" lean-forward="false" selection-start-line="66" selection-start-column="84" selection-end-line="66" selection-end-column="84" />
+            <state relative-caret-position="195">
+              <caret line="13" column="126" lean-forward="false" selection-start-line="13" selection-start-column="126" selection-end-line="13" selection-end-column="126" />
               <folding />
             </state>
           </provider>
@@ -40,9 +50,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>a</find>
-      <find>addclass</find>
-      <find>taiwancop</find>
       <find>ne</find>
       <find>need favic</find>
       <find>need favicon</find>
@@ -64,12 +71,15 @@
       <find>trotwood</find>
       <find>l</find>
       <find>localhost</find>
-      <find>seminars</find>
       <find>contact-us</find>
       <find>blog</find>
       <find>east west</find>
       <find>chinese bagua</find>
       <find>national kungfu</find>
+      <find>seminars</find>
+      <find>chang</find>
+      <find>xin</find>
+      <find>xinyi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,8 +111,8 @@
         <option value="$PROJECT_DIR$/guoxingmartialarts.com/includes/services/blog.php" />
         <option value="$PROJECT_DIR$/guoxingmartialarts.com/includes/home.php" />
         <option value="$PROJECT_DIR$/resources/config.php" />
-        <option value="$PROJECT_DIR$/guoxingmartialarts.com/includes/services/classes.php" />
         <option value="$PROJECT_DIR$/guoxingmartialarts.com/index.php" />
+        <option value="$PROJECT_DIR$/guoxingmartialarts.com/includes/services/classes.php" />
         <option value="$PROJECT_DIR$/guoxingmartialarts.com/includes/aboutus.php" />
       </list>
     </option>
@@ -115,10 +125,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1291" />
-    <option name="y" value="-254" />
-    <option name="width" value="1811" />
-    <option name="height" value="1054" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -135,8 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,6 +226,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,18 +366,21 @@
       <workItem from="1529933735460" duration="235000" />
       <workItem from="1529934096041" duration="147000" />
       <workItem from="1529956429577" duration="1052000" />
-      <workItem from="1529957602870" duration="371000" />
+      <workItem from="1529957602870" duration="416000" />
+      <workItem from="1530670269473" duration="1225000" />
+      <workItem from="1530815768877" duration="532000" />
+      <workItem from="1531189747843" duration="138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59991000" />
+    <option name="totallyTimeSpent" value="61931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1291" y="-254" width="1811" height="1054" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26399097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15993538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -514,14 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/services/classes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="859">
-          <caret line="120" column="3" lean-forward="false" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -556,16 +560,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/services/blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+        <state relative-caret-position="525">
+          <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/services/classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4155">
+          <caret line="277" column="55" lean-forward="false" selection-start-line="277" selection-start-column="55" selection-end-line="277" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/guoxingmartialarts.com/includes/aboutus.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="66" column="84" lean-forward="false" selection-start-line="66" selection-start-column="84" selection-end-line="66" selection-end-column="84" />
+        <state relative-caret-position="195">
+          <caret line="13" column="126" lean-forward="false" selection-start-line="13" selection-start-column="126" selection-end-line="13" selection-end-column="126" />
           <folding />
         </state>
       </provider>
