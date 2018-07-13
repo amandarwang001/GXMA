@@ -219,8 +219,8 @@
                         <div class="col m4"></div>
                         <div class="col m4 center-align">
                             <div class="card grey darken-2 white-text small">
-                                <div class="card-image">
-                                    <img src="<?= IMAGE_URL ?>chang-yukai.png" alt="Shifu Chang Yu-Kai, Ph.D.">
+                                <div style="max-height:70% !important" class="card-image">
+                                    <img src="<?= IMAGE_URL ?>chang-yukai.jpg" alt="Shifu Chang Yu-Kai, Ph.D.">
                                 </div>
                                 <div class="card-content">
                                     <p>Shifu Chang Yu-Kai, Ph.D.</p>
