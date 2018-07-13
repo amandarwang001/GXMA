@@ -284,9 +284,9 @@
         <div id="aboutamanda" class="section scrollspy">
             <h4>Instructor Amanda Wang</h4>
             <div class="row">
-                <div class="col m3 center"><img class="responsive-img" src="<?= IMAGE_URL ?>amandawang.png"
+                <div class="col m3 center"><img class="responsive-img" src="<?= IMAGE_URL ?>amandawang.jpg"
                                                 alt="Shifu David Cheng"></div>
-                <div class="col m9">Amanda is our newest instructor in the USA. She has won 3 gold medals in the ICMAC
+                <div class="col m9">Amanda is our newest instructor in the USA. She has won 5 gold medals in the ICMAC
                     Orlando tournament. She teaches Bagua Zhang and Northern Shaolin.
                 </div>
             </div>
